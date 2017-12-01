@@ -31,7 +31,6 @@ def generateJSONLD(path, output):
             date = post['datetime'].split(' ')[0]
             dict_date[date] += 1
 
-            post = json.load(reader)
             post["url"] = domain + post["url"]
             timestamp = post["datetime"]
             timestamp = timestamp.replace(" ", "T")
