@@ -1,0 +1,1436 @@
+Afghanistan: 
+conventional long form: Islamic State of Afghanistan
+conventional short form: Afghanistan 
+local long form: Dowlat-e Eslami-ye Afghanestan 
+local short form: Afghanestan 
+former: Republic of Afghanistan
+
+Albania: 
+conventional long form: Republic of Albania 
+conventional short form: Albania 
+local long form: Republika e Shqiperise 
+local short form: Shqiperia 
+former: People's Socialist Republic of Albania
+
+Algeria: 
+conventional long form: Democratic and Popular Republic of Algeria 
+conventional short form: Algeria 
+local long form: Al Jumhuriyah al Jaza'iriyah ad Dimuqratiyah ash Shabiyah 
+local short form: Al Jaza'ir
+
+American Samoa: 
+conventional long form: Territory of American Samoa 
+conventional short form: American Samoa 
+abbreviation: AS
+
+Andorra: 
+conventional long form: Principality of Andorra 
+conventional short form: Andorra 
+local long form: Principat d'Andorra 
+local short form: Andorra
+
+Angola: 
+conventional long form: Republic of Angola 
+conventional short form: Angola 
+local long form: Republica de Angola 
+local short form: Angola 
+former: People's Republic of Angola
+
+Anguilla: 
+conventional long form: none 
+conventional short form: Anguilla
+
+Antarctica: 
+conventional long form: none 
+conventional short form: Antarctica
+
+Antigua and Barbuda: 
+conventional long form: none 
+conventional short form: Antigua and Barbuda
+
+Argentina: 
+conventional long form: Argentine Republic 
+conventional short form: Argentina 
+local long form: Republica Argentina 
+local short form: Argentina
+
+Armenia: 
+conventional long form: Republic of Armenia 
+conventional short form: Armenia 
+local long form: Hayastani Hanrapetut'yun 
+local short form: Hayastan 
+former: Armenian Soviet Socialist Republic; Armenian Republic
+
+Aruba: 
+conventional long form: none 
+conventional short form: Aruba
+
+Ashmore and Cartier Islands: 
+conventional long form: Territory of Ashmore and Cartier Islands 
+conventional short form: Ashmore and Cartier Islands
+
+Australia: 
+conventional long form: Commonwealth of Australia 
+conventional short form: Australia
+
+Austria: 
+conventional long form: Republic of Austria 
+conventional short form: Austria 
+local long form: Republik Oesterreich 
+local short form: Oesterreich
+
+Azerbaijan: 
+conventional long form: Azerbaijani Republic 
+conventional short form: Azerbaijan 
+local long form: Azarbaycan Respublikasi 
+local short form: none 
+former: Azerbaijan Soviet Socialist Republic
+
+Bahamas, The: 
+conventional long form: Commonwealth of The Bahamas 
+conventional short form: The Bahamas
+
+Bahrain: 
+conventional long form: State of Bahrain 
+conventional short form: Bahrain 
+local long form: Dawlat al Bahrayn 
+local short form: Al Bahrayn
+
+Baker Island: 
+conventional long form: none 
+conventional short form: Baker Island
+
+Bangladesh: 
+conventional long form: People's Republic of Bangladesh 
+conventional short form: Bangladesh 
+former: East Pakistan
+
+Barbados: 
+conventional long form: none 
+conventional short form: Barbados
+
+Bassas da India: 
+conventional long form: none 
+conventional short form: Bassas da India
+
+Belarus: 
+conventional long form: Republic of Belarus 
+conventional short form: Belarus 
+local long form: Respublika Byelarus' 
+local short form: none 
+former: Belorussian (Byelorussian) Soviet Socialist Republic
+
+Belgium: 
+conventional long form: Kingdom of Belgium 
+conventional short form: Belgium 
+local long form: Royaume de Belgique/Koninkrijk Belgie 
+local short form: Belgique/Belgie
+
+Belize: 
+conventional long form: none 
+conventional short form: Belize 
+former: British Honduras
+
+Benin: 
+conventional long form: Republic of Benin 
+conventional short form: Benin 
+local long form: Republique du Benin 
+local short form: Benin 
+former: Dahomey
+
+Bermuda: 
+conventional long form: none 
+conventional short form: Bermuda
+
+Bhutan: 
+conventional long form: Kingdom of Bhutan 
+conventional short form: Bhutan
+
+Bolivia: 
+conventional long form: Republic of Bolivia 
+conventional short form: Bolivia 
+local long form: Republica de Bolivia 
+local short form: Bolivia
+
+Bosnia and Herzegovina: 
+conventional long form: none 
+conventional short form: Bosnia and Herzegovina 
+local long form: none 
+local short form: Bosna i Hercegovina
+
+Botswana: 
+conventional long form: Republic of Botswana 
+conventional short form: Botswana 
+former: Bechuanaland
+
+Bouvet Island: 
+conventional long form: none 
+conventional short form: Bouvet Island
+
+Brazil: 
+conventional long form: Federative Republic of Brazil 
+conventional short form: Brazil 
+local long form: Republica Federativa do Brasil 
+local short form: Brasil
+
+British Indian Ocean Territory: 
+conventional long form: British Indian Ocean Territory 
+conventional short form: none 
+abbreviation: BIOT
+
+British Virgin Islands: 
+conventional long form: none 
+conventional short form: British Virgin Islands 
+abbreviation: BVI
+
+Brunei: 
+conventional long form: Negara Brunei Darussalam 
+conventional short form: Brunei
+
+Bulgaria: 
+conventional long form: Republic of Bulgaria 
+conventional short form: Bulgaria
+
+Burkina Faso: 
+conventional long form: none 
+conventional short form: Burkina Faso 
+former: Upper Volta
+
+Burma: 
+conventional long form: Union of Burma 
+conventional short form: Burma 
+local long form: Pyidaungzu Myanma Naingngandaw (translated by the US Government as Union of Myanma and by the Burmese as Union of Myanmar) 
+local short form: Myanma Naingngandaw 
+former: Socialist Republic of the Union of Burma
+
+Burundi: 
+conventional long form: Republic of Burundi 
+conventional short form: Burundi 
+local long form: Republika y'u Burundi 
+local short form: Burundi
+
+Cambodia: 
+conventional long form: Kingdom of Cambodia 
+conventional short form: Cambodia 
+local long form: Preahreacheanachakr Kampuchea 
+local short form: Kampuchea
+
+Cameroon: 
+conventional long form: Republic of Cameroon 
+conventional short form: Cameroon 
+former: French Cameroon
+
+Canada: 
+conventional long form: none 
+conventional short form: Canada
+
+Cape Verde: 
+conventional long form: Republic of Cape Verde 
+conventional short form: Cape Verde 
+local long form: Republica de Cabo Verde 
+local short form: Cabo Verde
+
+Cayman Islands: 
+conventional long form: none 
+conventional short form: Cayman Islands
+
+Central African Republic: 
+conventional long form: Central African Republic 
+conventional short form: none 
+local long form: Republique Centrafricaine 
+local short form: none 
+former: Central African Empire 
+abbreviation: CAR
+
+Chad: 
+conventional long form: Republic of Chad 
+conventional short form: Chad 
+local long form: Republique du Tchad 
+local short form: Tchad
+
+Chile: 
+conventional long form: Republic of Chile 
+conventional short form: Chile 
+local long form: Republica de Chile 
+local short form: Chile
+
+China: 
+conventional long form: People's Republic of China 
+conventional short form: China 
+local long form: Zhonghua Renmin Gongheguo 
+local short form: Zhong Guo 
+abbreviation: PRC
+
+Christmas Island: 
+conventional long form: Territory of Christmas Island 
+conventional short form: Christmas Island
+
+Clipperton Island: 
+conventional long form: none 
+conventional short form: Clipperton Island 
+local long form: none 
+local short form: Ile Clipperton 
+former: sometimes called Ile de la Passion
+
+Cocos (Keeling) Islands: 
+conventional long form: Territory of Cocos (Keeling) Islands 
+conventional short form: Cocos (Keeling) Islands
+
+Colombia: 
+conventional long form: Republic of Colombia 
+conventional short form: Colombia 
+local long form: Republica de Colombia 
+local short form: Colombia
+
+Comoros: 
+conventional long form: Federal Islamic Republic of the Comoros 
+conventional short form: Comoros 
+local long form: Republique Federale Islamique des Comores 
+local short form: Comores
+
+Congo, Democratic Republic of the: 
+conventional long form: Democratic Republic of the Congo
+conventional short form: none 
+local long form: Republique Democratique du Congo 
+local short form: none 
+former: Belgian Congo, Congo/Leopoldville, Congo/Kinshasa, Zaire 
+abbreviation: DROC
+
+Congo, Republic of the: 
+conventional long form: Republic of the Congo 
+conventional short form: none 
+local long form: Republique du Congo 
+local short form: none 
+former: Middle Congo, Congo/Brazzaville, Congo
+
+Cook Islands: 
+conventional long form: none 
+conventional short form: Cook Islands
+
+Coral Sea Islands: 
+conventional long form: Coral Sea Islands Territory 
+conventional short form: Coral Sea Islands
+
+Costa Rica: 
+conventional long form: Republic of Costa Rica 
+conventional short form: Costa Rica 
+local long form: Republica de Costa Rica 
+local short form: Costa Rica
+
+Cote d'Ivoire: 
+conventional long form: Republic of Cote d'Ivoire 
+conventional short form: Cote d'Ivoire 
+local long form: Republique de Cote d'Ivoire 
+local short form: Cote d'Ivoire 
+former: Ivory Coast
+
+Croatia: 
+conventional long form: Republic of Croatia 
+conventional short form: Croatia 
+local long form: Republika Hrvatska 
+local short form: Hrvatska
+
+Cuba: 
+conventional long form: Republic of Cuba 
+conventional short form: Cuba 
+local long form: Republica de Cuba 
+local short form: Cuba
+
+Cyprus: 
+conventional long form: Republic of Cyprus 
+conventional short form: Cyprus 
+note: the Turkish Cypriot area refers to itself as the "Turkish Republic of Northern Cyprus" (TRNC)
+
+Czech Republic: 
+conventional long form: Czech Republic 
+conventional short form: Czech Republic 
+local long form: Ceska Republika 
+local short form: Ceska Republika
+
+Denmark: 
+conventional long form: Kingdom of Denmark 
+conventional short form: Denmark 
+local long form: Kongeriget Danmark 
+local short form: Danmark
+
+Djibouti: 
+conventional long form: Republic of Djibouti 
+conventional short form: Djibouti 
+former: French Territory of the Afars and Issas, French Somaliland
+
+Dominica: 
+conventional long form: Commonwealth of Dominica 
+conventional short form: Dominica
+
+Dominican Republic: 
+conventional long form: Dominican Republic 
+conventional short form: none 
+local long form: Republica Dominicana 
+local short form: none
+
+Ecuador: 
+conventional long form: Republic of Ecuador 
+conventional short form: Ecuador 
+local long form: Republica del Ecuador 
+local short form: Ecuador
+
+Egypt: 
+conventional long form: Arab Republic of Egypt 
+conventional short form: Egypt 
+local long form: Jumhuriyat Misr al-Arabiyah 
+local short form: Misr 
+former: United Arab Republic (with Syria)
+
+El Salvador: 
+conventional long form: Republic of El Salvador 
+conventional short form: El Salvador 
+local long form: Republica de El Salvador 
+local short form: El Salvador
+
+Equatorial Guinea: 
+conventional long form: Republic of Equatorial Guinea 
+conventional short form: Equatorial Guinea 
+local long form: Republica de Guinea Ecuatorial 
+local short form: Guinea Ecuatorial 
+former: Spanish Guinea
+
+Eritrea: 
+conventional long form: State of Eritrea 
+conventional short form: Eritrea 
+local long form: Hagere Ertra 
+local short form: Ertra 
+former: Eritrea Autonomous Region in Ethiopia
+
+Estonia: 
+conventional long form: Republic of Estonia 
+conventional short form: Estonia 
+local long form: Eesti Vabariik 
+local short form: Eesti 
+former: Estonian Soviet Socialist Republic
+
+Ethiopia: 
+conventional long form: Federal Democratic Republic of Ethiopia 
+conventional short form: Ethiopia 
+local long form: Ityop'iya Federalawi Demokrasiyawi Ripeblik 
+local short form: Ityop'iya 
+abbreviation: FDRE
+
+Europa Island: 
+conventional long form: none 
+conventional short form: Europa Island 
+local long form: none 
+local short form: Ile Europa
+
+Falkland Islands (Islas Malvinas): 
+conventional long form: none 
+conventional short form: Falkland Islands (Islas Malvinas)
+
+Faroe Islands: 
+conventional long form: none 
+conventional short form: Faroe Islands 
+local long form: none 
+local short form: Foroyar
+
+Fiji: 
+conventional long form: Republic of the Fiji Islands 
+conventional short form: Fiji
+
+Finland: 
+conventional long form: Republic of Finland 
+conventional short form: Finland 
+local long form: Suomen Tasavalta 
+local short form: Suomi
+
+France: 
+conventional long form: French Republic 
+conventional short form: France 
+local long form: Republique Francaise 
+local short form: France
+
+French Guiana: 
+conventional long form: Department of Guiana 
+conventional short form: French Guiana 
+local long form: none 
+local short form: Guyane
+
+French Polynesia: 
+conventional long form: Territory of French Polynesia 
+conventional short form: French Polynesia 
+local long form: Territoire de la Polynesie Francaise 
+local short form: Polynesie Francaise
+
+French Southern and Antarctic Lands: 
+conventional long form: Territory of the French Southern and Antarctic Lands 
+conventional short form: French Southern and Antarctic Lands 
+local long form: Territoire des Terres Australes et Antarctiques Francaises 
+local short form: Terres Australes et Antarctiques Francaises
+
+Gabon: 
+conventional long form: Gabonese Republic 
+conventional short form: Gabon 
+local long form: Republique Gabonaise 
+local short form: Gabon
+
+Gambia, The: 
+conventional long form: Republic of The Gambia 
+conventional short form: The Gambia
+
+Gaza Strip: 
+conventional long form: none 
+conventional short form: Gaza Strip 
+local long form: none 
+local short form: Qita Ghazzah
+
+Georgia: 
+conventional long form: none 
+conventional short form: Georgia 
+local long form: none 
+local short form: Sak'art'velo 
+former: Georgian Soviet Socialist Republic
+
+Germany: 
+conventional long form: Federal Republic of Germany 
+conventional short form: Germany 
+local long form: Bundesrepublik Deutschland 
+local short form: Deutschland
+
+Ghana: 
+conventional long form: Republic of Ghana 
+conventional short form: Ghana 
+former: Gold Coast
+
+Gibraltar: 
+conventional long form: none 
+conventional short form: Gibraltar
+
+Glorioso Islands: 
+conventional long form: none 
+conventional short form: Glorioso Islands 
+local long form: none 
+local short form: Iles Glorieuses
+
+Greece: 
+conventional long form: Hellenic Republic 
+conventional short form: Greece 
+local long form: Elliniki Dhimokratia 
+local short form: Ellas or Ellada 
+former: Kingdom of Greece
+
+Greenland: 
+conventional long form: none 
+conventional short form: Greenland 
+local long form: none 
+local short form: Kalaallit Nunaat
+
+Grenada: 
+conventional long form: none 
+conventional short form: Grenada
+
+Guadeloupe: 
+conventional long form: Department of Guadeloupe 
+conventional short form: Guadeloupe 
+local long form: Departement de la Guadeloupe 
+local short form: Guadeloupe
+
+Guam: 
+conventional long form: Territory of Guam 
+conventional short form: Guam
+
+Guatemala: 
+conventional long form: Republic of Guatemala 
+conventional short form: Guatemala 
+local long form: Republica de Guatemala 
+local short form: Guatemala
+
+Guernsey: 
+conventional long form: Bailiwick of Guernsey 
+conventional short form: Guernsey
+
+Guinea: 
+conventional long form: Republic of Guinea 
+conventional short form: Guinea 
+local long form: Republique de Guinee 
+local short form: Guinee 
+former: French Guinea
+
+Guinea-Bissau: 
+conventional long form: Republic of Guinea-Bissau 
+conventional short form: Guinea-Bissau 
+local long form: Republica da Guine-Bissau 
+local short form: Guine-Bissau 
+former: Portuguese Guinea
+
+Guyana: 
+conventional long form: Co-operative Republic of Guyana 
+conventional short form: Guyana 
+former: British Guiana
+
+Haiti: 
+conventional long form: Republic of Haiti 
+conventional short form: Haiti 
+local long form: Republique d'Haiti 
+local short form: Haiti
+
+Heard Island and McDonald Islands: 
+conventional long form: Territory of Heard Island and McDonald Islands 
+conventional short form: Heard Island and McDonald Islands
+
+Holy See (Vatican City): 
+conventional long form: The Holy See (State of the Vatican City) 
+conventional short form: Holy See (Vatican City) 
+local long form: Santa Sede (Stato della Citta del Vaticano) 
+local short form: Santa Sede (Citta del Vaticano)
+
+Honduras: 
+conventional long form: Republic of Honduras 
+conventional short form: Honduras 
+local long form: Republica de Honduras 
+local short form: Honduras
+
+Hong Kong: 
+conventional long form: Hong Kong Special Administrative Region 
+conventional short form: Hong Kong 
+local long form: Xianggang Tebie Xingzhengqu 
+local short form: Xianggang 
+abbreviation: HK
+
+Howland Island: 
+conventional long form: none 
+conventional short form: Howland Island
+
+Hungary: 
+conventional long form: Republic of Hungary 
+conventional short form: Hungary 
+local long form: Magyar Koztarsasag 
+local short form: Magyarorszag
+
+Iceland: 
+conventional long form: Republic of Iceland 
+conventional short form: Iceland 
+local long form: Lyoveldio Island 
+local short form: Island
+
+India: 
+conventional long form: Republic of India 
+conventional short form: India
+
+Indonesia: 
+conventional long form: Republic of Indonesia 
+conventional short form: Indonesia 
+local long form: Republik Indonesia 
+local short form: Indonesia 
+former: Netherlands East Indies; Dutch East Indies
+
+Iran: 
+conventional long form: Islamic Republic of Iran 
+conventional short form: Iran 
+local long form: Jomhuri-ye Eslami-ye Iran 
+local short form: Iran
+
+Iraq: 
+conventional long form: Republic of Iraq 
+conventional short form: Iraq 
+local long form: Al Jumhuriyah al Iraqiyah 
+local short form: Al Iraq
+
+Ireland: 
+conventional long form: none 
+conventional short form: Ireland
+
+Israel: 
+conventional long form: State of Israel 
+conventional short form: Israel 
+local long form: Medinat Yisra'el 
+local short form: Yisra'el
+
+Italy: 
+conventional long form: Italian Republic 
+conventional short form: Italy 
+local long form: Repubblica Italiana 
+local short form: Italia 
+former: Kingdom of Italy
+
+Jamaica: 
+conventional long form: none 
+conventional short form: Jamaica
+
+Jan Mayen: 
+conventional long form: none 
+conventional short form: Jan Mayen
+
+Japan: 
+conventional long form: none 
+conventional short form: Japan
+
+Jarvis Island: 
+conventional long form: none 
+conventional short form: Jarvis Island
+
+Jersey: 
+conventional long form: Bailiwick of Jersey 
+conventional short form: Jersey
+
+Johnston Atoll: 
+conventional long form: none 
+conventional short form: Johnston Atoll
+
+Jordan: 
+conventional long form: Hashemite Kingdom of Jordan 
+conventional short form: Jordan 
+local long form: Al Mamlakah al Urduniyah al Hashimiyah 
+local short form: Al Urdun 
+former: Transjordan
+
+Juan de Nova Island: 
+conventional long form: none 
+conventional short form: Juan de Nova Island 
+local long form: none 
+local short form: Ile Juan de Nova
+
+Kazakhstan: 
+conventional long form: Republic of Kazakhstan 
+conventional short form: Kazakhstan 
+local long form: Qazaqstan Respublikasy 
+local short form: none 
+former: Kazakh Soviet Socialist Republic
+
+Kenya: 
+conventional long form: Republic of Kenya 
+conventional short form: Kenya 
+former: British East Africa
+
+Kingman Reef: 
+conventional long form: none 
+conventional short form: Kingman Reef
+
+Kiribati: 
+conventional long form: Republic of Kiribati 
+conventional short form: Kiribati 
+note: pronounced kir-ih-bahss 
+former: Gilbert Islands
+
+Korea, North: 
+conventional long form: Democratic People's Republic of Korea 
+conventional short form: North Korea 
+local long form: Choson-minjujuui-inmin-konghwaguk 
+local short form: none 
+note: the North Koreans generally use the term "Choson" to refer to their country 
+abbreviation: DPRK
+
+Korea, South: 
+conventional long form: Republic of Korea 
+conventional short form: South Korea 
+local long form: Taehan-min'guk 
+local short form: none 
+note: the South Koreans generally use the term "Han-guk" to refer to their country 
+abbreviation: ROK
+
+Kuwait: 
+conventional long form: State of Kuwait 
+conventional short form: Kuwait 
+local long form: Dawlat al Kuwayt 
+local short form: Al Kuwayt
+
+Kyrgyzstan: 
+conventional long form: Kyrgyz Republic 
+conventional short form: Kyrgyzstan 
+local long form: Kyrgyz Respublikasy 
+local short form: none 
+former: Kirghiz Soviet Socialist Republic
+
+Laos: 
+conventional long form: Lao People's Democratic Republic
+conventional short form: Laos 
+local long form: Sathalanalat Paxathipatai Paxaxon Lao 
+local short form: none
+
+Latvia: 
+conventional long form: Republic of Latvia 
+conventional short form: Latvia 
+local long form: Latvijas Republika 
+local short form: Latvija 
+former: Latvian Soviet Socialist Republic
+
+Lebanon: 
+conventional long form: Lebanese Republic 
+conventional short form: Lebanon 
+local long form: Al Jumhuriyah al Lubnaniyah 
+local short form: Lubnan
+
+Lesotho: 
+conventional long form: Kingdom of Lesotho 
+conventional short form: Lesotho 
+former: Basutoland
+
+Liberia: 
+conventional long form: Republic of Liberia 
+conventional short form: Liberia
+
+Libya: 
+conventional long form: Socialist People's Libyan Arab Jamahiriya 
+conventional short form: Libya 
+local long form: Al Jumahiriyah al Arabiyah al Libiyah ash Shabiyah al Ishtirakiyah 
+local short form: none
+
+Liechtenstein: 
+conventional long form: Principality of Liechtenstein 
+conventional short form: Liechtenstein 
+local long form: Fuerstentum Liechtenstein 
+local short form: Liechtenstein
+
+Lithuania: 
+conventional long form: Republic of Lithuania 
+conventional short form: Lithuania 
+local long form: Lietuvos Respublika 
+local short form: Lietuva 
+former: Lithuanian Soviet Socialist Republic
+
+Luxembourg: 
+conventional long form: Grand Duchy of Luxembourg 
+conventional short form: Luxembourg 
+local long form: Grand-Duche de Luxembourg 
+local short form: Luxembourg
+
+Macau: 
+conventional long form: Macau Special Administrative Region 
+conventional short form: Macau 
+local long form: Aomen Tebie Xingzhengqu (Chinese); Regiao Administrativa Especial de Macau (Portuguese) 
+local short form: Aomen (Chinese); Macau (Portuguese)
+
+Macedonia, The Former Yugoslav Republic of: 
+conventional long form: The Former Yugoslav Republic of Macedonia 
+conventional short form: none 
+local long form: Republika Makedonija 
+local short form: Makedonija 
+abbreviation: F.Y.R.O.M.
+
+Madagascar: 
+conventional long form: Republic of Madagascar 
+conventional short form: Madagascar 
+local long form: Republique de Madagascar 
+local short form: Madagascar 
+former: Malagasy Republic
+
+Malawi: 
+conventional long form: Republic of Malawi 
+conventional short form: Malawi 
+former: Nyasaland
+
+Malaysia: 
+conventional long form: none 
+conventional short form: Malaysia 
+former: Malayan Union
+
+Maldives: 
+conventional long form: Republic of Maldives 
+conventional short form: Maldives 
+local long form: Dhivehi Raajjeyge Jumhooriyyaa 
+local short form: Dhivehi Raajje
+
+Mali: 
+conventional long form: Republic of Mali 
+conventional short form: Mali 
+local long form: Republique de Mali 
+local short form: Mali 
+former: French Sudan and Sudanese Republic
+
+Malta: 
+conventional long form: Republic of Malta 
+conventional short form: Malta 
+local long form: Repubblika ta' Malta 
+local short form: Malta
+
+Man, Isle of: 
+conventional long form: none 
+conventional short form: Isle of Man
+
+Marshall Islands: 
+conventional long form: Republic of the Marshall Islands 
+conventional short form: Marshall Islands 
+former: Marshall Islands District (Trust Territory of the Pacific Islands)
+
+Martinique: 
+conventional long form: Department of Martinique 
+conventional short form: Martinique 
+local long form: Departement de la Martinique 
+local short form: Martinique
+
+Mauritania: 
+conventional long form: Islamic Republic of Mauritania 
+conventional short form: Mauritania 
+local long form: Al Jumhuriyah al Islamiyah al Muritaniyah
+local short form: Muritaniyah
+
+Mauritius: 
+conventional long form: Republic of Mauritius 
+conventional short form: Mauritius
+
+Mayotte: 
+conventional long form: Territorial Collectivity of Mayotte 
+conventional short form: Mayotte
+
+Mexico: 
+conventional long form: United Mexican States 
+conventional short form: Mexico 
+local long form: Estados Unidos Mexicanos 
+local short form: Mexico
+
+Micronesia, Federated States of: 
+conventional long form: Federated States of Micronesia 
+conventional short form: none 
+former: Kosrae, Ponape, Truk, and Yap Districts (Trust Territory of the Pacific Islands) 
+abbreviation: FSM
+
+Midway Islands: 
+conventional long form: none 
+conventional short form: Midway Islands
+
+Moldova: 
+conventional long form: Republic of Moldova 
+conventional short form: Moldova 
+local long form: Republica Moldova 
+local short form: none 
+former: Soviet Socialist Republic of Moldova; Moldavia
+
+Monaco: 
+conventional long form: Principality of Monaco 
+conventional short form: Monaco 
+local long form: Principaute de Monaco 
+local short form: Monaco
+
+Mongolia: 
+conventional long form: none 
+conventional short form: Mongolia 
+local long form: none 
+local short form: Mongol Uls 
+former: Outer Mongolia
+
+Montserrat: 
+conventional long form: none 
+conventional short form: Montserrat
+
+Morocco: 
+conventional long form: Kingdom of Morocco 
+conventional short form: Morocco 
+local long form: Al Mamlakah al Maghribiyah 
+local short form: Al Maghrib
+
+Mozambique: 
+conventional long form: Republic of Mozambique 
+conventional short form: Mozambique 
+local long form: Republica de Mocambique 
+local short form: Mocambique
+
+Namibia: 
+conventional long form: Republic of Namibia 
+conventional short form: Namibia
+
+Nauru: 
+conventional long form: Republic of Nauru 
+conventional short form: Nauru 
+former: Pleasant Island
+
+Navassa Island: 
+conventional long form: none 
+conventional short form: Navassa Island
+
+Nepal: 
+conventional long form: Kingdom of Nepal 
+conventional short form: Nepal
+
+Netherlands: 
+conventional long form: Kingdom of the Netherlands 
+conventional short form: Netherlands 
+local long form: Koninkrijk der Nederlanden 
+local short form: Nederland
+
+Netherlands Antilles: 
+conventional long form: none 
+conventional short form: Netherlands Antilles 
+local long form: none 
+local short form: Nederlandse Antillen
+
+New Caledonia: 
+conventional long form: Territory of New Caledonia and Dependencies 
+conventional short form: New Caledonia 
+local long form: Territoire des Nouvelle-Caledonie et Dependances 
+local short form: Nouvelle-Caledonie
+
+New Zealand: 
+conventional long form: none 
+conventional short form: New Zealand 
+abbreviation: NZ
+
+Nicaragua: 
+conventional long form: Republic of Nicaragua 
+conventional short form: Nicaragua 
+local long form: Republica de Nicaragua 
+local short form: Nicaragua
+
+Niger: 
+conventional long form: Republic of Niger 
+conventional short form: Niger 
+local long form: Republique du Niger 
+local short form: Niger
+
+Nigeria: 
+conventional long form: Federal Republic of Nigeria 
+conventional short form: Nigeria
+
+Niue: 
+conventional long form: none 
+conventional short form: Niue
+
+Norfolk Island: 
+conventional long form: Territory of Norfolk Island 
+conventional short form: Norfolk Island
+
+Northern Mariana Islands: 
+conventional long form: Commonwealth of the Northern Mariana Islands 
+conventional short form: Northern Mariana Islands
+
+Norway: 
+conventional long form: Kingdom of Norway 
+conventional short form: Norway 
+local long form: Kongeriket Norge 
+local short form: Norge
+
+Oman: 
+conventional long form: Sultanate of Oman 
+conventional short form: Oman 
+local long form: Saltanat Uman 
+local short form: Uman
+
+Pakistan: 
+conventional long form: Islamic Republic of Pakistan 
+conventional short form: Pakistan 
+former: West Pakistan
+
+Palau: 
+conventional long form: Republic of Palau 
+conventional short form: Palau 
+local long form: Beluu er a Belau 
+local short form: Belau 
+former: Trust Territory of the Pacific Islands
+
+Palmyra Atoll: 
+conventional long form: none 
+conventional short form: Palmyra Atoll
+
+Panama: 
+conventional long form: Republic of Panama 
+conventional short form: Panama 
+local long form: Republica de Panama 
+local short form: Panama
+
+Papua New Guinea: 
+conventional long form: Independent State of Papua New Guinea 
+conventional short form: Papua New Guinea 
+abbreviation: PNG
+
+Paracel Islands: 
+conventional long form: none 
+conventional short form: Paracel Islands
+
+Paraguay: 
+conventional long form: Republic of Paraguay 
+conventional short form: Paraguay 
+local long form: Republica del Paraguay 
+local short form: Paraguay
+
+Peru: 
+conventional long form: Republic of Peru 
+conventional short form: Peru 
+local long form: Republica del Peru 
+local short form: Peru
+
+Philippines: 
+conventional long form: Republic of the Philippines 
+conventional short form: Philippines 
+local long form: Republika ng Pilipinas 
+local short form: Pilipinas
+
+Pitcairn Islands: 
+conventional long form: Pitcairn, Henderson, Ducie, and Oeno Islands 
+conventional short form: Pitcairn Islands
+
+Poland: 
+conventional long form: Republic of Poland 
+conventional short form: Poland 
+local long form: Rzeczpospolita Polska 
+local short form: Polska
+
+Portugal: 
+conventional long form: Portuguese Republic 
+conventional short form: Portugal 
+local long form: Republica Portuguesa 
+local short form: Portugal
+
+Puerto Rico: 
+conventional long form: Commonwealth of Puerto Rico 
+conventional short form: Puerto Rico
+
+Qatar: 
+conventional long form: State of Qatar 
+conventional short form: Qatar 
+local long form: Dawlat Qatar 
+local short form: Qatar 
+note: closest approximation of the native pronunciation falls between cutter and gutter, but not like guitar
+
+Reunion: 
+conventional long form: Department of Reunion 
+conventional short form: Reunion 
+local long form: none 
+local short form: Ile de la Reunion
+
+Romania: 
+conventional long form: none 
+conventional short form: Romania 
+local long form: none 
+local short form: Romania
+
+Russia: 
+conventional long form: Russian Federation 
+conventional short form: Russia 
+local long form: Rossiyskaya Federatsiya 
+local short form: Rossiya 
+former: Russian Soviet Federative Socialist Republic
+
+Rwanda: 
+conventional long form: Rwandese Republic 
+conventional short form: Rwanda 
+local long form: Republika y'u Rwanda 
+local short form: Rwanda
+
+Saint Helena: 
+conventional long form: none 
+conventional short form: Saint Helena
+
+Saint Kitts and Nevis: 
+conventional long form: Federation of Saint Kitts and Nevis 
+conventional short form: Saint Kitts and Nevis 
+former: Federation of Saint Christopher and Nevis
+
+Saint Lucia: 
+conventional long form: none 
+conventional short form: Saint Lucia
+
+Saint Pierre and Miquelon: 
+conventional long form: Territorial Collectivity of Saint Pierre and Miquelon 
+conventional short form: Saint Pierre and Miquelon 
+local long form: Departement de Saint-Pierre et Miquelon 
+local short form: Saint-Pierre et Miquelon
+
+Saint Vincent and the Grenadines: 
+conventional long form: none 
+conventional short form: Saint Vincent and the Grenadines
+
+Samoa: 
+conventional long form: Independent State of Samoa 
+conventional short form: Samoa 
+former: Western Samoa
+
+San Marino: 
+conventional long form: Republic of San Marino 
+conventional short form: San Marino 
+local long form: Repubblica di San Marino 
+local short form: San Marino
+
+Sao Tome and Principe: 
+conventional long form: Democratic Republic of Sao Tome and Principe 
+conventional short form: Sao Tome and Principe 
+local long form: Republica Democratica de Sao Tome e Principe 
+local short form: Sao Tome e Principe
+
+Saudi Arabia: 
+conventional long form: Kingdom of Saudi Arabia 
+conventional short form: Saudi Arabia 
+local long form: Al Mamlakah al Arabiyah as Suudiyah 
+local short form: Al Arabiyah as Suudiyah
+
+Senegal: 
+conventional long form: Republic of Senegal 
+conventional short form: Senegal 
+local long form: Republique du Senegal 
+local short form: Senegal
+
+Serbia and Montenegro: 
+conventional long form: none 
+conventional short form: Serbia and Montenegro 
+local long form: none 
+local short form: Srbija-Crna Gora 
+note: Serbia and Montenegro has self-proclaimed itself the "Federal Republic of Yugoslavia" (FRY) but the US view is that the Socialist Federal Republic of Yugoslavia (SFRY) has dissolved and that none of the successor republics represents its continuation
+
+Seychelles: 
+conventional long form: Republic of Seychelles 
+conventional short form: Seychelles
+
+Sierra Leone: 
+conventional long form: Republic of Sierra Leone 
+conventional short form: Sierra Leone
+
+Singapore: 
+conventional long form: Republic of Singapore 
+conventional short form: Singapore
+
+Slovakia: 
+conventional long form: Slovak Republic 
+conventional short form: Slovakia 
+local long form: Slovenska Republika 
+local short form: Slovensko
+
+Slovenia: 
+conventional long form: Republic of Slovenia 
+conventional short form: Slovenia 
+local long form: Republika Slovenije 
+local short form: Slovenija
+
+Solomon Islands: 
+conventional long form: none 
+conventional short form: Solomon Islands 
+former: British Solomon Islands
+
+Somalia: 
+conventional long form: none 
+conventional short form: Somalia 
+former: Somali Republic, Somali Democratic Republic
+
+South Africa: 
+conventional long form: Republic of South Africa 
+conventional short form: South Africa 
+abbreviation: RSA
+
+South Georgia and the South Sandwich Islands: 
+conventional long form: South Georgia and the South Sandwich Islands 
+conventional short form: none
+
+Spain: 
+conventional long form: Kingdom of Spain 
+conventional short form: Spain 
+local short form: Espana
+
+Spratly Islands: 
+conventional long form: none 
+conventional short form: Spratly Islands
+
+Sri Lanka: 
+conventional long form: Democratic Socialist Republic of Sri Lanka 
+conventional short form: Sri Lanka 
+former: Ceylon
+
+Sudan: 
+conventional long form: Republic of the Sudan 
+conventional short form: Sudan 
+local long form: Jumhuriyat as-Sudan 
+local short form: As-Sudan 
+former: Anglo-Egyptian Sudan
+
+Suriname: 
+conventional long form: Republic of Suriname 
+conventional short form: Suriname 
+local long form: Republiek Suriname 
+local short form: Suriname 
+former: Netherlands Guiana, Dutch Guiana
+
+Svalbard: 
+conventional long form: none 
+conventional short form: Svalbard (sometimes referred to as Spitzbergen)
+
+Swaziland: 
+conventional long form: Kingdom of Swaziland 
+conventional short form: Swaziland
+
+Sweden: 
+conventional long form: Kingdom of Sweden 
+conventional short form: Sweden 
+local long form: Konungariket Sverige 
+local short form: Sverige
+
+Switzerland: 
+conventional long form: Swiss Confederation 
+conventional short form: Switzerland 
+local long form: Schweizerische Eidgenossenschaft (German), Confederation Suisse (French), Confederazione Svizzera (Italian) 
+local short form: Schweiz (German), Suisse (French), Svizzera (Italian)
+
+Syria: 
+conventional long form: Syrian Arab Republic 
+conventional short form: Syria 
+local long form: Al Jumhuriyah al Arabiyah as Suriyah 
+local short form: Suriyah 
+former: United Arab Republic (with Egypt)
+
+Taiwan: 
+conventional long form: none 
+conventional short form: Taiwan 
+local long form: none 
+local short form: T'ai-wan
+
+Tajikistan: 
+conventional long form: Republic of Tajikistan 
+conventional short form: Tajikistan 
+local long form: Jumhurii Tojikiston 
+local short form: none 
+former: Tajik Soviet Socialist Republic
+
+Tanzania: 
+conventional long form: United Republic of Tanzania 
+conventional short form: Tanzania 
+former: United Republic of Tanganyika and Zanzibar
+
+Thailand: 
+conventional long form: Kingdom of Thailand 
+conventional short form: Thailand
+
+Togo: 
+conventional long form: Togolese Republic 
+conventional short form: Togo 
+local long form: Republique Togolaise 
+local short form: none 
+former: French Togoland
+
+Tokelau: 
+conventional long form: none 
+conventional short form: Tokelau
+
+Tonga: 
+conventional long form: Kingdom of Tonga 
+conventional short form: Tonga 
+former: Friendly Islands
+
+Trinidad and Tobago: 
+conventional long form: Republic of Trinidad and Tobago 
+conventional short form: Trinidad and Tobago
+
+Tromelin Island: 
+conventional long form: none 
+conventional short form: Tromelin Island 
+local long form: none 
+local short form: Ile Tromelin
+
+Tunisia: 
+conventional long form: Republic of Tunisia 
+conventional short form: Tunisia 
+local long form: Al Jumhuriyah at Tunisiyah 
+local short form: Tunis
+
+Turkey: 
+conventional long form: Republic of Turkey 
+conventional short form: Turkey 
+local long form: Turkiye Cumhuriyeti 
+local short form: Turkiye
+
+Turkmenistan: 
+conventional long form: none 
+conventional short form: Turkmenistan 
+local long form: none 
+local short form: Turkmenistan 
+former: Turkmen Soviet Socialist Republic
+
+Turks and Caicos Islands: 
+conventional long form: none 
+conventional short form: Turks and Caicos Islands
+
+Tuvalu: 
+conventional long form: none 
+conventional short form: Tuvalu 
+former: Ellice Islands
+
+Uganda: 
+conventional long form: Republic of Uganda 
+conventional short form: Uganda
+
+Ukraine: 
+conventional long form: none 
+conventional short form: Ukraine 
+local long form: none 
+local short form: Ukrayina 
+former: Ukrainian Soviet Socialist Republic
+
+United Arab Emirates: 
+conventional long form: United Arab Emirates 
+conventional short form: none 
+local long form: Al Imarat al Arabiyah al Muttahidah 
+local short form: none 
+former: Trucial States 
+abbreviation: UAE
+
+United Kingdom: 
+conventional long form: United Kingdom of Great Britain and Northern Ireland 
+conventional short form: United Kingdom 
+abbreviation: UK
+
+United States: 
+conventional long form: United States of America 
+conventional short form: United States 
+abbreviation: US or USA
+
+Uruguay: 
+conventional long form: Oriental Republic of Uruguay 
+conventional short form: Uruguay 
+local long form: Republica Oriental del Uruguay 
+local short form: Uruguay
+
+Uzbekistan: 
+conventional long form: Republic of Uzbekistan 
+conventional short form: Uzbekistan 
+local long form: Uzbekiston Respublikasi 
+local short form: none 
+former: Uzbek Soviet Socialist Republic
+
+Vanuatu: 
+conventional long form: Republic of Vanuatu 
+conventional short form: Vanuatu 
+former: New Hebrides
+
+Venezuela: 
+conventional long form: Bolivarian Republic of Venezuela 
+conventional short form: Venezuela 
+local long form: Republica Bolivariana de Venezuela 
+local short form: Venezuela
+
+Vietnam: 
+conventional long form: Socialist Republic of Vietnam 
+conventional short form: Vietnam 
+local long form: Cong Hoa Chu Nghia Viet Nam 
+local short form: Viet Nam 
+abbreviation: SRV
+
+Virgin Islands: 
+conventional long form: Virgin Islands of the United States 
+conventional short form: Virgin Islands 
+former: Danish West Indies
+
+Wake Island: 
+conventional long form: none 
+conventional short form: Wake Island
+
+Wallis and Futuna: 
+conventional long form: Territory of the Wallis and Futuna Islands 
+conventional short form: Wallis and Futuna 
+local long form: Territoire des Iles Wallis et Futuna 
+local short form: Wallis et Futuna
+
+West Bank: 
+conventional long form: none 
+conventional short form: West Bank
+
+Western Sahara: 
+conventional long form: none 
+conventional short form: Western Sahara 
+former: Spanish Sahara
+
+Yemen: 
+conventional long form: Republic of Yemen 
+conventional short form: Yemen 
+local long form: Al Jumhuriyah al Yamaniyah 
+local short form: Al Yaman
+
+Zambia: 
+conventional long form: Republic of Zambia 
+conventional short form: Zambia 
+former: Northern Rhodesia
+
+Zimbabwe: 
+conventional long form: Republic of Zimbabwe 
+conventional short form: Zimbabwe 
+former: Southern Rhodesia, Rhodesia

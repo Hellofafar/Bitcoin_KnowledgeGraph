@@ -1,16 +1,19 @@
 import json
 
-country_dict = {}
+dict_country = {}
+list_country = []
 
-with open('../country_example.csv', 'r') as reader:
+with open("allCountryNames.txt", 'r') as reader:
     countries = reader.readlines()
     for c in countries:
-        names = c.split(',')
+        names = c.split('\t')
         id = names[0]
+        list_country.append(id)
         for n in names:
-            country_dict[n] = id
+            n = n.strip()
+            dict_country[n] = id
 
     
-with open("country_glossary.json", 'w') as writer:
-    res = json.dumps(country_dict)
+with open("process/processedData/country_glossary.json", 'w') as writer:
+    res = json.dumps(dict_country)
     writer.write(res)

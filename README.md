@@ -10,6 +10,10 @@ $ node nytimes_crawl.js
 
 ## Data Cleaning/Processing
 
+### Country Name
+1. For some country name with a comma, e.g. Korea, South, I added nationality name fo allCountryNames.txt manually.
 
 ## Reference
 1. NLTK: Bird, Steven, Edward Loper and Ewan Klein (2009), Natural Language Processing with Python. O’Reilly Media Inc.
+2. [Country Name](http://www.ed-u.com/country-names.htm)
+3. [Nationality Name](http://www.myenglishpages.com/site_php_files/vocabulary-lesson-countries-nationalities.php)

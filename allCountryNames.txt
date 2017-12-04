@@ -1,0 +1,261 @@
+Afghanistan	Islamic State of Afghanistan	Afghanistan	Afghan
+Albania	Republic of Albania	Albania	Albanian
+Algeria	Democratic and Popular Republic of Algeria	Algeria	Algerian
+American Samoa	Territory of American Samoa	American Samoa	AS
+Andorra	Principality of Andorra	Andorra	Andorran
+Angola	Republic of Angola	Angola	Angolan
+Anguilla	Anguilla
+Antarctica	Antarctica
+Antigua and Barbuda	Antigua and Barbuda
+Argentina	Argentine Republic	Argentina	Argentinian
+Armenia	Republic of Armenia	Armenia	Armenian
+Aruba	Aruba
+Ashmore and Cartier Islands	Territory of Ashmore and Cartier Islands	Ashmore and Cartier Islands
+Australia	Commonwealth of Australia	Australia	Australian
+Austria	Republic of Austria	Austria	Austrian
+Azerbaijan	Azerbaijani Republic	Azerbaijan	Azerbaijani
+Bahamas, The	Commonwealth of The Bahamas	The Bahamas
+Bahrain	State of Bahrain	Bahrain	Bahraini
+Baker Island	Baker Island
+Bangladesh	People's Republic of Bangladesh	Bangladesh	Bangladeshi
+Barbados	Barbados	Barbadian
+Bassas da India	Bassas da India
+Belarus	Republic of Belarus	Belarus	Belarusian,Belarusan
+Belgium	Kingdom of Belgium	Belgium	Belgian
+Belize	Belize	Belizian
+Benin	Republic of Benin	Benin	Beninese
+Bermuda	Bermuda
+Bhutan	Kingdom of Bhutan	Bhutan	Bhutanese
+Bolivia	Republic of Bolivia	Bolivia	Bolivian
+Bosnia and Herzegovina	Bosnia and Herzegovina
+Botswana	Republic of Botswana	Botswana	Botswanan
+Bouvet Island	Bouvet Island
+Brazil	Federative Republic of Brazil	Brazil	Brazilian
+British Indian Ocean Territory	British Indian Ocean Territory	BIOT
+British Virgin Islands	British Virgin Islands	BVI
+Brunei	Negara Brunei Darussalam	Brunei	Bruneian
+Bulgaria	Republic of Bulgaria	Bulgaria	Bulgarian
+Burkina Faso	Burkina Faso
+Burma	Union of Burma	Burma
+Burundi	Republic of Burundi	Burundi	Burundian
+Cambodia	Kingdom of Cambodia	Cambodia	Cambodian
+Cameroon	Republic of Cameroon	Cameroon	Cameroonian
+Canada	Canada	Canadian
+Cape Verde	Republic of Cape Verde	Cape Verde
+Cayman Islands	Cayman Islands
+Central African Republic	Central African Republic	CAR
+Chad	Republic of Chad	Chad	Chadian
+Chile	Republic of Chile	Chile	Chilean
+China	People's Republic of China	China	PRC	Chinese
+Christmas Island	Territory of Christmas Island	Christmas Island
+Clipperton Island	Clipperton Island
+Cocos (Keeling) Islands	Territory of Cocos (Keeling) Islands	Cocos (Keeling) Islands
+Colombia	Republic of Colombia	Colombia	Colombian
+Comoros	Federal Islamic Republic of the Comoros	Comoros
+Congo, Democratic Republic of the	Democratic Republic of the Congo	DROC
+Congo, Republic of the	Republic of the Congo
+Cook Islands	Cook Islands
+Coral Sea Islands	Coral Sea Islands Territory	Coral Sea Islands
+Costa Rica	Republic of Costa Rica	Costa Rica	Costa Rican
+Cote d'Ivoire	Republic of Cote d'Ivoire	Cote d'Ivoire
+Croatia	Republic of Croatia	Croatia	Croat,Croatian
+Cuba	Republic of Cuba	Cuba	Cuban
+Cyprus	Republic of Cyprus	Cyprus	Cypriot
+Czech Republic	Czech Republic	Czech Republic	Czech
+Denmark	Kingdom of Denmark	Denmark	Danish
+Djibouti	Republic of Djibouti	Djibouti	Djiboutian
+Dominica	Commonwealth of Dominica	Dominica	Dominican
+Dominican Republic	Dominican Republic	Dominican
+Ecuador	Republic of Ecuador	Ecuador	Ecuadorean
+Egypt	Arab Republic of Egypt	Egypt	Egyptian
+El Salvador	Republic of El Salvador	El Salvador	Salvadorean
+Equatorial Guinea	Republic of Equatorial Guinea	Equatorial Guinea
+Eritrea	State of Eritrea	Eritrea	Eritrean
+Estonia	Republic of Estonia	Estonia	Estonian
+Ethiopia	Federal Democratic Republic of Ethiopia	Ethiopia	FDRE	Ethiopian
+Europa Island	Europa Island
+Falkland Islands (Islas Malvinas)	Falkland Islands (Islas Malvinas)
+Faroe Islands	Faroe Islands
+Fiji	Republic of the Fiji Islands	Fiji	Fijian
+Finland	Republic of Finland	Finland	Finnish
+France	French Republic	France	French
+French Guiana	Department of Guiana	French Guiana
+French Polynesia	Territory of French Polynesia	French Polynesia
+French Southern and Antarctic Lands	Territory of the French Southern and Antarctic Lands	French Southern and Antarctic Lands
+Gabon	Gabonese Republic	Gabon	Gabonese
+Gambia, The	Republic of The Gambia	The Gambia
+Gaza Strip	Gaza Strip
+Georgia	Georgia	Georgian
+Germany	Federal Republic of Germany	Germany	German
+Ghana	Republic of Ghana	Ghana	Ghanaian
+Gibraltar	Gibraltar
+Glorioso Islands	Glorioso Islands
+Greece	Hellenic Republic	Greece	Greek
+Greenland	Greenland
+Grenada	Grenada	Grenadian
+Guadeloupe	Department of Guadeloupe	Guadeloupe
+Guam	Territory of Guam	Guam
+Guatemala	Republic of Guatemala	Guatemala	Guatemalan
+Guernsey	Bailiwick of Guernsey	Guernsey
+Guinea	Republic of Guinea	Guinea	Guinean
+Guinea-Bissau	Republic of Guinea-Bissau	Guinea-Bissau
+Guyana	Co-operative Republic of Guyana	Guyana	Guyanese
+Haiti	Republic of Haiti	Haiti	Haitian
+Heard Island and McDonald Islands	Territory of Heard Island and McDonald Islands	Heard Island and McDonald Islands
+Holy See (Vatican City)	The Holy See (State of the Vatican City)	Holy See (Vatican City)
+Honduras	Republic of Honduras	Honduras	Honduran
+Hong Kong	Hong Kong Special Administrative Region	Hong Kong	HK
+Howland Island	Howland Island
+Hungary	Republic of Hungary	Hungary	Hungarian
+Iceland	Republic of Iceland	Iceland	Icelandic
+India	Republic of India	India	Indian
+Indonesia	Republic of Indonesia	Indonesia	Indonesian
+Iran	Islamic Republic of Iran	Iran	Iranian
+Iraq	Republic of Iraq	Iraq	Iraqi
+Ireland	Ireland
+Israel	State of Israel	Israel	Israeli
+Italy	Italian Republic	Italy	Italian
+Jamaica	Jamaica	Jamaican
+Jan Mayen	Jan Mayen
+Japan	Japan	Japanese
+Jarvis Island	Jarvis Island
+Jersey	Bailiwick of Jersey	Jersey
+Johnston Atoll	Johnston Atoll
+Jordan	Hashemite Kingdom of Jordan	Jordan	Jordanian
+Juan de Nova Island	Juan de Nova Island
+Kazakhstan	Republic of Kazakhstan	Kazakhstan	Kazakh
+Kenya	Republic of Kenya	Kenya	Kenyan
+Kingman Reef	Kingman Reef
+Kiribati	Republic of Kiribati	Kiribati
+Korea, North	Democratic People's Republic of Korea	North Korea	DPRK
+Korea, South	Republic of Korea	South Korea	ROK
+Kuwait	State of Kuwait	Kuwait	Kuwaiti
+Kyrgyzstan	Kyrgyz Republic	Kyrgyzstan
+Laos	Lao People's Democratic Republic	Laos	Laotian
+Latvia	Republic of Latvia	Latvia	Latvian
+Lebanon	Lebanese Republic	Lebanon	Lebanese
+Lesotho	Kingdom of Lesotho	Lesotho
+Liberia	Republic of Liberia	Liberia	Liberian
+Libya	Socialist People's Libyan Arab Jamahiriya	Libya	Libyan
+Liechtenstein	Principality of Liechtenstein	Liechtenstein
+Lithuania	Republic of Lithuania	Lithuania	Lithuanian
+Luxembourg	Grand Duchy of Luxembourg	Luxembourg
+Macau	Macau Special Administrative Region	Macau
+Macedonia, The Former Yugoslav Republic of	The Former Yugoslav Republic of Macedonia	F.Y.R.O.M.
+Madagascar	Republic of Madagascar	Madagascar	Malagasy,Madagascan
+Malawi	Republic of Malawi	Malawi	Malawian
+Malaysia	Malaysia	Malaysian
+Maldives	Republic of Maldives	Maldives	Maldivian
+Mali	Republic of Mali	Mali	Malian
+Malta	Republic of Malta	Malta	Maltese
+Man, Isle of	Isle of Man
+Marshall Islands	Republic of the Marshall Islands	Marshall Islands
+Martinique	Department of Martinique	Martinique
+Mauritania	Islamic Republic of Mauritania	Mauritania	Mauritanian
+Mauritius	Republic of Mauritius	Mauritius	Mauritian
+Mayotte	Territorial Collectivity of Mayotte	Mayotte
+Mexico	United Mexican States	Mexico	Mexican
+Micronesia, Federated States of	Federated States of Micronesia	FSM
+Midway Islands	Midway Islands
+Moldova	Republic of Moldova	Moldova	Moldovan
+Monaco	Principality of Monaco	Monaco	Monégasque,Monacan
+Mongolia	Mongolia	Mongolian
+Montserrat	Montserrat
+Morocco	Kingdom of Morocco	Morocco	Moroccan
+Mozambique	Republic of Mozambique	Mozambique	Mozambican
+Namibia	Republic of Namibia	Namibia	Namibian
+Nauru	Republic of Nauru	Nauru
+Navassa Island	Navassa Island
+Nepal	Kingdom of Nepal	Nepal	Nepalese
+Netherlands	Kingdom of the Netherlands	Netherlands
+Netherlands Antilles	Netherlands Antilles
+New Caledonia	Territory of New Caledonia and Dependencies	New Caledonia
+New Zealand	New Zealand	NZ	New Zealand
+Nicaragua	Republic of Nicaragua	Nicaragua	Nicaraguan
+Niger	Republic of Niger	Niger	Nigerien
+Nigeria	Federal Republic of Nigeria	Nigeria	Nigerian
+Niue	Niue
+Norfolk Island	Territory of Norfolk Island	Norfolk Island
+Northern Mariana Islands	Commonwealth of the Northern Mariana Islands	Northern Mariana Islands
+Norway	Kingdom of Norway	Norway	Norwegian
+Oman	Sultanate of Oman	Oman	Omani
+Pakistan	Islamic Republic of Pakistan	Pakistan	Pakistani
+Palau	Republic of Palau	Palau
+Palmyra Atoll	Palmyra Atoll
+Panama	Republic of Panama	Panama	Panamanian
+Papua New Guinea	Independent State of Papua New Guinea	Papua New Guinea	PNG	Papua New Guinean,Guinean
+Paracel Islands	Paracel Islands
+Paraguay	Republic of Paraguay	Paraguay	Paraguayan
+Peru	Republic of Peru	Peru	Peruvian
+Philippines	Republic of the Philippines	Philippines
+Pitcairn Islands	Pitcairn, Henderson, Ducie, and Oeno Islands	Pitcairn Islands
+Poland	Republic of Poland	Poland	Polish
+Portugal	Portuguese Republic	Portugal	Portuguese
+Puerto Rico	Commonwealth of Puerto Rico	Puerto Rico
+Qatar	State of Qatar	Qatar	Qatari
+Reunion	Department of Reunion	Reunion
+Romania	Romania	Romanian
+Russia	Russian Federation	Russia	Russian
+Rwanda	Rwandese Republic	Rwanda	Rwandan
+Saint Helena	Saint Helena
+Saint Kitts and Nevis	Federation of Saint Kitts and Nevis	Saint Kitts and Nevis
+Saint Lucia	Saint Lucia
+Saint Pierre and Miquelon	Territorial Collectivity of Saint Pierre and Miquelon	Saint Pierre and Miquelon
+Saint Vincent and the Grenadines	Saint Vincent and the Grenadines
+Samoa	Independent State of Samoa	Samoa
+San Marino	Republic of San Marino	San Marino
+Sao Tome and Principe	Democratic Republic of Sao Tome and Principe	Sao Tome and Principe
+Saudi Arabia	Kingdom of Saudi Arabia	Saudi Arabia	Saudi Arabian,Saudi
+Senegal	Republic of Senegal	Senegal	Senegalese
+Serbia and Montenegro	Serbia and Montenegro
+Seychelles	Republic of Seychelles	Seychelles
+Sierra Leone	Republic of Sierra Leone	Sierra Leone	Sierra Leonian
+Singapore	Republic of Singapore	Singapore	Singaporean
+Slovakia	Slovak Republic	Slovakia	Slovak
+Slovenia	Republic of Slovenia	Slovenia	Slovene,Slovenian
+Solomon Islands	Solomon Islands
+Somalia	Somalia	Somali
+South Africa	Republic of South Africa	South Africa	RSA	South African
+South Georgia and the South Sandwich Islands	South Georgia and the South Sandwich Islands
+Spain	Kingdom of Spain	Spain	Spanish
+Spratly Islands	Spratly Islands
+Sri Lanka	Democratic Socialist Republic of Sri Lanka	Sri Lanka	Sri Lankan
+Sudan	Republic of the Sudan	Sudan	Sudanese
+Suriname	Republic of Suriname	Suriname	Surinamese
+Svalbard	Svalbard (sometimes referred to as Spitzbergen)
+Swaziland	Kingdom of Swaziland	Swaziland	Swazi
+Sweden	Kingdom of Sweden	Sweden	Swedish
+Switzerland	Swiss Confederation	Switzerland	Swiss
+Syria	Syrian Arab Republic	Syria	Syrian
+Taiwan	Taiwan	Taiwanese
+Tajikistan	Republic of Tajikistan	Tajikistan	Tajik,Tadjik
+Tanzania	United Republic of Tanzania	Tanzania	Tanzanian
+Thailand	Kingdom of Thailand	Thailand	Thai
+Togo	Togolese Republic	Togo	Togolese
+Tokelau	Tokelau
+Tonga	Kingdom of Tonga	Tonga
+Trinidad and Tobago	Republic of Trinidad and Tobago	Trinidad and Tobago	Trinidadian,Tobagan,Tobagonian
+Tromelin Island	Tromelin Island
+Tunisia	Republic of Tunisia	Tunisia	Tunisian
+Turkey	Republic of Turkey	Turkey	Turkish
+Turkmenistan	Turkmenistan	Turkmen,Turkoman
+Turks and Caicos Islands	Turks and Caicos Islands
+Tuvalu	Tuvalu
+Uganda	Republic of Uganda	Uganda	Ugandan
+Ukraine	Ukraine	Ukrainian
+United Arab Emirates	United Arab Emirates	UAE
+United Kingdom	United Kingdom of Great Britain and Northern Ireland	United Kingdom	UK
+United States	United States of America	United States	US or USA
+Uruguay	Oriental Republic of Uruguay	Uruguay	Uruguayan
+Uzbekistan	Republic of Uzbekistan	Uzbekistan	Uzbek
+Vanuatu	Republic of Vanuatu	Vanuatu
+Venezuela	Bolivarian Republic of Venezuela	Venezuela	Venezuelan
+Vietnam	Socialist Republic of Vietnam	Vietnam	SRV	Vietnamese
+Virgin Islands	Virgin Islands of the United States	Virgin Islands
+Wake Island	Wake Island
+Wallis and Futuna	Territory of the Wallis and Futuna Islands	Wallis and Futuna
+West Bank	West Bank
+Western Sahara	Western Sahara
+Yemen	Republic of Yemen	Yemen	Yemeni
+Zambia	Republic of Zambia	Zambia	Zambian
+Zimbabwe	Republic of Zimbabwe	Zimbabwe
