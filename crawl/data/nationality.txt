@@ -26,7 +26,7 @@ Britain	British	a Briton
 Brunei	Bruneian	a Bruneian
 Bulgaria	Bulgarian	a Bulgarian
 Burkina	Burkinese	a Burkinese
-Burma (or Myanmar)	Burmese	a Burmese
+Burma	Burmese	a Burmese
 Burundi	Burundian	a Burundian
 Cambodia	Cambodian	a Cambodian
 Cameroon	Cameroonian	a Cameroonian
@@ -163,9 +163,9 @@ Turkmenistan	Turkmen,Turkoman	a Turkmen,a Turkoman
 Tuvali	Tuvaluan	a Tuvaluan
 Uganda	Ugandan	a Ugandan
 Ukraine	Ukrainian	a Ukrainian
-United Arab Emirates (UAE)	Emirati	an Emirati
-United Kingdom (UK)	British	a Briton
-United States of America (USA)	American	a US citizen
+United Arab Emirates	Emirati	an Emirati
+United Kingdom	British	a Briton
+United States	American	a US citizen
 Uruguay	Uruguayan	a Uruguayan
 Uzbekistan	Uzbek	an Uzbek
 Vanuata	Vanuatuan	a Vanuatuan

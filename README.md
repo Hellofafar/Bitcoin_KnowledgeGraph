@@ -11,7 +11,7 @@ $ node nytimes_crawl.js
 ## Data Cleaning/Processing
 
 ### Country Name
-1. For some country name with a comma, e.g. Korea, South, I added nationality name fo allCountryNames.txt manually.
+1. For some country name with a comma, e.g. Korea, South, I added nationality name fo allCountryNames.txt manually. (All these countries will be printed out after country_aggregate.py is executed.)
 
 ## Reference
 1. NLTK: Bird, Steven, Edward Loper and Ewan Klein (2009), Natural Language Processing with Python. O’Reilly Media Inc.

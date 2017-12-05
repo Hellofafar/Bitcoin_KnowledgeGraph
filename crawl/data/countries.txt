@@ -199,7 +199,7 @@ former: Upper Volta
 Burma: 
 conventional long form: Union of Burma 
 conventional short form: Burma 
-local long form: Pyidaungzu Myanma Naingngandaw (translated by the US Government as Union of Myanma and by the Burmese as Union of Myanmar) 
+local long form: Pyidaungzu Myanma Naingngandaw
 local short form: Myanma Naingngandaw 
 former: Socialist Republic of the Union of Burma
 
@@ -709,7 +709,7 @@ conventional short form: Kiribati
 note: pronounced kir-ih-bahss 
 former: Gilbert Islands
 
-Korea, North: 
+North Korea: 
 conventional long form: Democratic People's Republic of Korea 
 conventional short form: North Korea 
 local long form: Choson-minjujuui-inmin-konghwaguk 
@@ -717,7 +717,7 @@ local short form: none
 note: the North Koreans generally use the term "Choson" to refer to their country 
 abbreviation: DPRK
 
-Korea, South: 
+South Korea: 
 conventional long form: Republic of Korea 
 conventional short form: South Korea 
 local long form: Taehan-min'guk 

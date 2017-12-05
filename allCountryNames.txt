@@ -36,7 +36,7 @@ British Virgin Islands	British Virgin Islands	BVI
 Brunei	Negara Brunei Darussalam	Brunei	Bruneian
 Bulgaria	Republic of Bulgaria	Bulgaria	Bulgarian
 Burkina Faso	Burkina Faso
-Burma	Union of Burma	Burma
+Burma	Union of Burma	Burma	Burmese
 Burundi	Republic of Burundi	Burundi	Burundian
 Cambodia	Kingdom of Cambodia	Cambodia	Cambodian
 Cameroon	Republic of Cameroon	Cameroon	Cameroonian
@@ -127,8 +127,8 @@ Kazakhstan	Republic of Kazakhstan	Kazakhstan	Kazakh
 Kenya	Republic of Kenya	Kenya	Kenyan
 Kingman Reef	Kingman Reef
 Kiribati	Republic of Kiribati	Kiribati
-Korea, North	Democratic People's Republic of Korea	North Korea	DPRK
-Korea, South	Republic of Korea	South Korea	ROK
+North Korea	Democratic People's Republic of Korea	North Korea	DPRK	North Korean
+South Korea	Republic of Korea	South Korea	ROK	South Korean
 Kuwait	State of Kuwait	Kuwait	Kuwaiti
 Kyrgyzstan	Kyrgyz Republic	Kyrgyzstan
 Laos	Lao People's Democratic Republic	Laos	Laotian
@@ -243,9 +243,9 @@ Turks and Caicos Islands	Turks and Caicos Islands
 Tuvalu	Tuvalu
 Uganda	Republic of Uganda	Uganda	Ugandan
 Ukraine	Ukraine	Ukrainian
-United Arab Emirates	United Arab Emirates	UAE
-United Kingdom	United Kingdom of Great Britain and Northern Ireland	United Kingdom	UK
-United States	United States of America	United States	US or USA
+United Arab Emirates	United Arab Emirates	UAE	Emirati
+United Kingdom	United Kingdom of Great Britain and Northern Ireland	United Kingdom	UK	U.K.	U.K	British
+United States	United States of America	United States	US	USA	U.S.	U.S	American
 Uruguay	Oriental Republic of Uruguay	Uruguay	Uruguayan
 Uzbekistan	Republic of Uzbekistan	Uzbekistan	Uzbek
 Vanuatu	Republic of Vanuatu	Vanuatu
@@ -258,4 +258,3 @@ West Bank	West Bank
 Western Sahara	Western Sahara
 Yemen	Republic of Yemen	Yemen	Yemeni
 Zambia	Republic of Zambia	Zambia	Zambian
-Zimbabwe	Republic of Zimbabwe	Zimbabwe

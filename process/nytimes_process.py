@@ -15,54 +15,84 @@ def generateJSONLD(inputPath, outputPath):
 
     with open(inputPath, 'r') as reader:
         data = reader.readlines()
+        country_sentiment = defaultdict(list)
+
         for line in data:
             if not line or line == "\n":
                 continue
 
-            js = json.loads(line)            
+            js = json.loads(line)          
             
             if "response" in js and len(js["response"]["docs"]) > 0:
                 targets = js["response"]["docs"]
                 for item in targets:
+                    temp = {}
                     if "headline" in item and "main" in item["headline"]:
-                        item["headline"] = item["headline"]["main"]                  
+                        # item["headline"] = item["headline"]["main"]
+                        title = item["headline"]["main"]
+                        temp["doc_id"] = hashlib.sha256(title.encode("utf-8")).hexdigest().upper()
+                        temp["raw_content"] = "."
+                        temp["url"] = item["web_url"]
+                        temp["title"] = item["headline"]["main"]
+                        temp["content"] = "."
+                        temp["author"] = "."
 
-                    if "pub_date" not in item:
-                        if "nytimes.com/" not in item["web_url"]:
-                            item['pub_date'] = ""
-                            continue
+                        if "pub_date" not in item:
+                            if "nytimes.com/" not in item["web_url"]:
+                                # item['pub_date'] = ""
+                                temp["datetime"] = "."
+                                continue
 
-                        pub_date = item["web_url"].split("nytimes.com/")[1][0:10]
-                        if not pub_date[0].isdigit():
-                            item["pub_date"] = ""
-                            continue
+                            pub_date = item["web_url"].split("nytimes.com/")[1][0:10]
+                            if not pub_date[0].isdigit():
+                                temp["datetime"] = "."
+                                continue
 
-                        pub_date = pub_date.split('/')
-                        year = pub_date[0]
-                        month = pub_date[1]
-                        day = pub_date[2]
-                        pub_date = "%s-%s-%sT00:00:00" % (year, month, day)
-                        item['pub_date'] = pub_date
+                            pub_date = pub_date.split('/')
+                            year = pub_date[0]
+                            month = pub_date[1]
+                            day = pub_date[2]
+                            pub_date = "%s-%s-%sT00:00:00" % (year, month, day)
+                            temp["datetime"] = pub_date
+                        
+                        else:
+                            temp["datetime"] = item["pub_date"]
+
+                        temp["source"] = "nytimes"
+
+                        # Country name extraction
+                        country_related = checkCountry(list_name, temp["title"])
+                        if country_related:
+                            res = []
+                            for c in country_related:
+                                name = dict_country[c]
+                                res.append(name)
+                            temp["country"] = res
+                        else:
+                            temp["country"] = []
+                        
+                        # Sentiment analysis
+                        sentiment = analyzeSentiment(temp["title"])
+                        temp["sentiment"] = sentiment
+
+                        for c in temp["country"]:
+                            country_sentiment[c].append(temp["sentiment"])
                     
-                    item["doc_id"] = hashlib.sha256(item["headline"].encode("utf-8")).hexdigest().upper()
-                    item["url"] = item.pop("web_url")
-                    item["raw_content"] = "."
-
-                    country_related = checkCountry(list_name, item["headline"])
-                    if country_related:
-                        res = []
-                        for c in country_related:
-                            name = dict_country[c]
-                            res.append(name)
-                        item["country"] = res
+                        with open(outputPath, 'a') as writer:
+                            writer.write(json.dumps(temp) + '\n')
+                    
                     else:
-                        item["country"] = []
-                    
-                    sentiment = analyzeSentiment(item["headline"])
-                    item["sentiment"] = sentiment
-                    
-                    with open(outputPath, 'a') as writer:
-                        writer.write(json.dumps(item) + '\n')
+                        continue
+
+        for c in country_sentiment:
+            country_sentiment[c] = sum(country_sentiment[c]) / len(country_sentiment[c])
+        
+        with open("country_sentiment.json", 'a') as writer1:
+            writer1.write(json.dumps(country_sentiment) + '\n')
+
+        print("Average sentiment score of country appearing in articles:")
+        print(country_sentiment)
+
 
 def checkCountry(countryList, content):
     token_content = tokenize.word_tokenize(content)
