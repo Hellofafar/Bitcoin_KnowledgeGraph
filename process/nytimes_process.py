@@ -33,7 +33,7 @@ def generateJSONLD(inputPath, outputPath):
                         temp["doc_id"] = hashlib.sha256(title.encode("utf-8")).hexdigest().upper()
                         temp["raw_content"] = "."
                         temp["url"] = item["web_url"]
-                        temp["title"] = item["headline"]["main"]
+                        temp["title"] = title
                         temp["content"] = "."
                         temp["author"] = "."
 
