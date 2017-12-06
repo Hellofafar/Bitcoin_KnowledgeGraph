@@ -117,7 +117,7 @@ def analyzeSentiment(content):
 if __name__ == "__main__":
     if len(sys.argv) != 3:
         input_path = "crawl/data/nytimes_btc.txt"
-        output_path = "process/processedData/nytimes_btc_new.jl"
+        output_path = "process/processedData/nytimes_btc.jl"
     else:
         input_path = sys.argv[1]
         output_path = sys.argv[2]
